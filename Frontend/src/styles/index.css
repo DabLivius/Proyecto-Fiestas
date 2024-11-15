@@ -72,8 +72,9 @@
 }
 
 .container-descuentos {
-  background-image: url("../img/FondoLogin.jpg");
+  background-image: url("../img/DiscountForm.jpg");
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   padding: 60px;
 }
